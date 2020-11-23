@@ -13,7 +13,7 @@
     z-index: 100;
   
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between; /*dividi o espaço entre os itens*/
     align-items: center;
   
     position: fixed;
